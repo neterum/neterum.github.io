@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: coming soon
+title: colon-write-quit
 email: stephen.wildow@neterum.com
 description: >- # this means to ignore newlines until "baseurl:"
   Random musings into all things information technology.  Professional C# developer
