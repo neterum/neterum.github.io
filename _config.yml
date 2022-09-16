@@ -21,9 +21,7 @@
 title: coming soon
 email: stephen.wildow@neterum.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Random musings into all things information technology.  Professional C# developer
-  and network adminstrator.  Hobbyist in information security.  Will leave the keyboard
-  at home for hiking, cycling, and nature.  
+  Random musings into all things information technology and cyber.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephenwildow
